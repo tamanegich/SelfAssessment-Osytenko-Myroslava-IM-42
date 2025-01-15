@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
+  - `Object` h
+  - `Function` h
+  - `Boolean` h
   - `Number`
   - `BigInt`
   - `String`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` h
+  - `while` h
+  - `do..while` h
+  - `for` h
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
+  - `break` h
   - `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
+  - `switch` h
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function h
   - Async function
   - Function declaration
   - Function expression
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` h
   - `Map`
   - `Set`
   - `WeakMap`
@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js h
   - npm
-  - prettier
+  - prettier h
   - MDN
   - TC39

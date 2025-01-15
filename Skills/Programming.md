@@ -4,62 +4,62 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm h
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language k
   - Contract
   - Module
-  - Library
-  - Package
+  - Library k
+  - Package h
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework h
+  - Platform h
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse h
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable
-  - Constant
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
   - Method
-  - Class
+  - Class u
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type h
+  - Flag h
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions u
+  - Loops h
   - Assignment
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
+  - Naming conventions h
+  - Coding conventions h
+  - Camel case h
   - Snake case
   - Kebab case
   - Trailing commas
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array h
   - Structure
   - Record
   - Enum
@@ -113,7 +113,7 @@
   - Object
   - Collection
   - Set
-  - Hash table
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
-  - YAML
+  - YAML k
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
@@ -152,36 +152,36 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime h
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git h
+  - Github k
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers h
+  - Hard code k
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
   - Not invented here
-  - Dead code
+  - Dead code h
   - Unreachable code
   - Duplicate code
   - Premature optimization
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,31 +209,31 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers u
+  - Kernel h
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory h
+  - File system u
+  - Linux u
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS k
+  - Windows u
+  - Real-time OS h
+  - Embedded OS h
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 h
+  - ECMA h
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
