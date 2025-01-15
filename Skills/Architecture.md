@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns u
+  - Separation of concerns: 🖐️ used
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -10,7 +10,7 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity u
+  - Modularity: 🖐️ used
   - Subsystems
   - Directories
   - Leaking abstractions
@@ -20,13 +20,13 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion u
+  - Cohesion: 🖐️ used
   - Coupling
   - Cyclomatic complexity
-  - Reliability u
+  - Reliability: 🖐️ used
   - Quality
   - Availability
-  - Flexibility u
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -34,7 +34,7 @@
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC) u
+  - Separation of concerns (SoC): 🖐️ used
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)

@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
+  - Event loop: 🖐️ used
   - `try..catch`
-  - Non-blocking u
+  - Non-blocking: 🖐️ used
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -25,8 +25,8 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers u
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
   - AbortController

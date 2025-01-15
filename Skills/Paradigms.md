@@ -5,20 +5,20 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming u
+  - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming u
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming u
-  - Metaprogramming u
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 🖐️ used
   - Actor model
   - Lambda calculus
   - Black box
@@ -37,7 +37,7 @@
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class h
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
   - Interface
@@ -86,6 +86,6 @@
   - Memento
   - Template Method
   - Visitor
-  - Reactor h
+  - Reactor: 👂 heard
   - Active object
   - Delegation
