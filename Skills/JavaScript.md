@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object` h
-  - `Function` h
-  - `Boolean` h
-  - `Number`
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
   - `...spread`
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` h
-  - `while` h
-  - `do..while` h
-  - `for` h
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
   - `for..in`
-  - `for..of`
+  - `for..of`: 🖐️ used
   - `for await`
   - `throw`
-  - `break` h
+  - `break`: 🖐️ used
   - `continue`
-  - `import`
-  - `export`
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
   - `try..catch`
-  - `switch` h
-  - `class`
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function h
-  - Async function
-  - Function declaration
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
   - Function expression
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` h
-  - `Map`
-  - `Set`
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -106,17 +106,17 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise`: 🖐️ used
   - `console`
   - Timers
 - Infrastructure
   - V8
-  - Node.js h
-  - npm
-  - prettier h
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39

@@ -4,62 +4,62 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm h
-  - Syntax k
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm u
+  - Programm: 🖐️ used
   - Programming paradigm
-  - Programming language k
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library k
-  - Package h
+  - Library: 🖐️ used
+  - Package: 👂 heard
   - Component
-  - Framework h
-  - Platform h
-  - Source code k
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 🎓 known
   - Object code
-  - Machine code k
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering h
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse h
+  - Code reuse: 🖐️ used
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable u
-  - Constant u
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function h
+  - Function: 🖐️ used
   - Procedure
   - Method
-  - Class u
+  - Class: 🖐️ used
   - Prototype
   - Event
-  - Type h
-  - Flag h
+  - Type: 🖐️ used
+  - Flag: 👂 heard
   - Lexical scope
   - Code block
-  - Conditions u
-  - Loops h
+  - Conditions: 🖐️ used
+  - Loops: 👂 heard
   - Assignment
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions h
-  - Coding conventions h
-  - Camel case h
+  - Naming conventions: 👂 heard
+  - Coding conventions: 👂 heard
+  - Camel case: 👂 heard
   - Snake case
   - Kebab case
   - Trailing commas
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array h
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
@@ -113,7 +113,7 @@
   - Object
   - Collection
   - Set
-  - Hash table h
+  - Hash table: 👂 heard
   - Linked list
   - Doubly list
   - Unrolled list
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON u
+  - JSON: 🖐️ used
   - JSON5
-  - YAML k
+  - YAML: 🎓 known
 - Networking
-  - DNS h
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 h
-  - IPv6 h
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
   - NAT
-  - URL h
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
@@ -152,36 +152,36 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime h
-  - Virtual machine u
+  - Runtime: 👂 heard
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git h
-  - Github k
-  - Docker h
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers h
-  - Hard code k
+  - Magic numbers: 👂 heard
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti h
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
-  - Dead code h
+  - Dead code: 👂 heard
   - Unreachable code
   - Duplicate code
   - Premature optimization
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case h
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,31 +209,31 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers u
-  - Kernel h
+  - Drivers: 🖐️ used
+  - Kernel: 👂 heard
   - Ring
-  - Virtual memory h
-  - File system u
-  - Linux u
-  - Unix k
+  - Virtual memory: 👂 heard
+  - File system: 🖐️ used
+  - Linux: 🖐️ used
+  - Unix: 🎓 known
   - BSD
-  - MacOS k
-  - Windows u
-  - Real-time OS h
-  - Embedded OS h
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 h
-  - ECMA h
+  - Base64: 👂 heard
+  - ECMA: 👂 heard
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 u
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
