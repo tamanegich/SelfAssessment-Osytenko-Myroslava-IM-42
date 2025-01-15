@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object` h
-  - `Function` h
-  - `Boolean` h
-  - `Number`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `String` u
+  - `Symbol` k
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` h
-  - `while` h
-  - `do..while` h
-  - `for` h
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
   - `for..in`
-  - `for..of`
+  - `for..of` u
   - `for await`
   - `throw`
-  - `break` h
+  - `break` u
   - `continue`
-  - `import`
-  - `export`
+  - `import` u
+  - `export` u
   - `label`
   - `try..catch`
-  - `switch` h
-  - `class`
+  - `switch` u
+  - `class` u
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function h
-  - Async function
-  - Function declaration
+  - Arrow function u
+  - Async function u
+  - Function declaration u
   - Function expression
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array` h
-  - `Map`
-  - `Set`
+  - `Array` u
+  - `Map` k
+  - `Set` k
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -106,17 +106,17 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` h
+  - `JSON` u
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` u
   - `console`
   - Timers
 - Infrastructure
   - V8
-  - Node.js h
-  - npm
-  - prettier h
+  - Node.js u
+  - npm u
+  - prettier u
   - MDN
   - TC39

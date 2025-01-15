@@ -3,22 +3,22 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
+  - Nonblocking I/O and blocking code u
+  - Event loop phases h
+  - Event loop microtasks and macrotasks h
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks h
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules u
+  - ECMAScript modules u
   - Module `node:module`
-  - Caching in CJS and ESM
+  - Caching in CJS and ESM h
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -43,7 +43,7 @@
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
-  - async_hooks
+  - async_hooks u
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
@@ -54,7 +54,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
+  - Module `node:url` vs `new URL` h
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
@@ -79,12 +79,12 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection h
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -121,7 +121,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks h
   - Resource leaks
   - Data race
 - Integrations and bindings

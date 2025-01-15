@@ -4,17 +4,17 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm h
-  - Syntax k
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
   - Programm u
   - Programming paradigm
-  - Programming language k
+  - Programming language u
   - Contract
   - Module
-  - Library k
+  - Library u
   - Package h
   - Component
   - Framework h
@@ -27,7 +27,7 @@
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse h
+  - Code reuse u
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
@@ -40,13 +40,13 @@
   - Literal
   - Expression
   - Heap
-  - Function h
+  - Function u
   - Procedure
   - Method
   - Class u
   - Prototype
   - Event
-  - Type h
+  - Type u
   - Flag h
   - Lexical scope
   - Code block
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array h
+  - Array u
   - Structure
   - Record
   - Enum
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger u
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git h
-  - Github k
+  - git u
+  - Github u
   - Docker h
   - Kubernetes
   - GCC
